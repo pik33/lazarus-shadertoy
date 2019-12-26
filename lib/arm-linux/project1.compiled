@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1549255624"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -Fi/home/pi/lazarus-shadertoy/lib/arm-linux -Fu/home/pi/lazarus/components/synedit/units/arm-linux/gtk2 -Fu/home/pi/lazarus/components/opengl/lib/arm-linux/gtk2 -Fu/home/pi/lazarus/lcl/units/arm-linux/gtk2 -Fu/home/pi/lazarus/lcl/units/arm-linux -Fu/home/pi/lazarus/components/lazutils/lib/arm-linux -Fu/home/pi/lazarus/packager/units/arm-linux -Fu/home/pi/lazarus-shadertoy/ -FU/home/pi/lazarus-shadertoy/lib/arm-linux/ -FE/home/pi/lazarus-shadertoy/ -o/home/pi/lazarus-shadertoy/project1 -dLCL -dLCLgtk2 project1.lpr"/>
+</CONFIG>
